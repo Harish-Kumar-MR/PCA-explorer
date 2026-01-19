@@ -1,0 +1,12 @@
+﻿Folder PATH listing for volume OS
+Volume serial number is 0ADC-756B
+C:\USERS\HARIS\DOCUMENTS\PROJECTS\PCA-FROM-SCRATCH-EXPLORER\SRC
+ª   io_utils.py
+ª   pca.py
+ª   preprocess.py
+ª   __init__.py
+ª   
++---__pycache__
+        pca.cpython-313.pyc
+        __init__.cpython-313.pyc
+        

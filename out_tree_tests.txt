@@ -1,0 +1,10 @@
+﻿Folder PATH listing for volume OS
+Volume serial number is 0ADC-756B
+C:\USERS\HARIS\DOCUMENTS\PROJECTS\PCA-FROM-SCRATCH-EXPLORER\TESTS
+ª   conftest.py
+ª   test_pca.py
+ª   
++---__pycache__
+        conftest.cpython-313-pytest-9.0.2.pyc
+        test_pca.cpython-313-pytest-9.0.2.pyc
+        

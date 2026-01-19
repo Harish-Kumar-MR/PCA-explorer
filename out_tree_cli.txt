@@ -1,0 +1,7 @@
+﻿Folder PATH listing for volume OS
+Volume serial number is 0ADC-756B
+C:\USERS\HARIS\DOCUMENTS\PROJECTS\PCA-FROM-SCRATCH-EXPLORER\CLI
+    pca_cli.py
+    
+No subfolders exist 
+
