@@ -46,11 +46,11 @@ Install deps via `requirements.txt`.
 ## Quickstart (Windows / PowerShell)
 
 ### 1) Clone
-```powershell
+
 git clone https://github.com/<your-username>/pca-from-scratch-explorer.git
 cd pca-from-scratch-explorer
 
-2) Create & activate a virtual environment
+### 2) Create & activate a virtual environment
 python -m venv .venv
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 .\.venv\Scripts\Activate.ps1
@@ -58,3 +58,23 @@ Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 3) Install dependencies
 python -m pip install --upgrade pip
 python -m pip install -r requirements.txt
+Add sample data
+
+
+Create this file:
+
+Path: data/sample_numeric.csv
+
+Content:
+
+a,b,c,d
+1,2,3,4
+2,3,4,5
+3,4,5,6
+4,5,6,7
+5,6,7,8
+6,7,8,9
+7,8,9,10
+
+
+Note: PCA requires numeric columns. Non-numeric columns are ignored automatically.
